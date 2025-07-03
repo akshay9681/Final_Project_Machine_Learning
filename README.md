@@ -3,4 +3,4 @@ We are working on "Predicting Heart Disease Using Clinical Variables with Superv
 
 Group Member
 Akshay Kumar 
-Om Kumar Patel
+OmKumar Patel
